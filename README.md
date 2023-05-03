@@ -7,6 +7,7 @@ With a simple and intuitive interface, it is easy to use and offers accurate and
 
 💻 🖥️ MacOS 13.2
 
+⚠️ Version does not work on m1+ family
 
 Install:
 
